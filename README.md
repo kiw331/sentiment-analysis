@@ -1,4 +1,4 @@
-# sentiment-analysis: 다중 감성 분류모델 구현
+# sentiment-analysis: 다중감성 분류모델
 
 ## __앞으로 할거__
 
@@ -31,7 +31,8 @@ https://aihub.or.kr/unitysearch/list.do?kwd=%EA%B0%90%EC%A0%95
 토큰화 ,Vocab  
 데이터셋이 문장 단위로 라벨링 되있는데 토큰화 단위로 뭐가 적합한지  
 
-KoBERT) 토크나이징 함수, 사용되는 파라미터들을 설정, optimizer loss 함수, 스케쥴러
+KoBERT  
+토크나이징 함수, 사용되는 파라미터들을 설정, optimizer loss 함수, 스케쥴러  
 -특히  learning rate, epochs
 
 - 모델 선정
