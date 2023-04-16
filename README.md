@@ -1,4 +1,4 @@
-# sentiment-analysis: 다중감성 분류모델
+# sentiment-analysis
 
 ## __앞으로 할거__
 
